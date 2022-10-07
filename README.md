@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekyps" alt="geekyps" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/priyans68345217" target="blank"><img src="https://img.shields.io/twitter/follow/priyans68345217?logo=twitter&style=for-the-badge" alt="priyans68345217" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Priyans58944648" target="blank"><img src="https://img.shields.io/twitter/follow/priyans68345217?logo=twitter&style=for-the-badge" alt="priyans68345217" /></a> </p>
 
 - 🔭 I’m currently working on [Competitive Programming](https://codeforces.com/profile/Geeky_PS)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priyans68345217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans68345217" height="30" width="40" /></a>
+<a href="https://twitter.com/Priyans58944648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans68345217" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanshu-71604b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18000944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18000944" height="30" width="40" /></a>
 <a href="https://www.facebook.com/priyanshu.srivastava.5832/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu" height="30" width="40" /></a>
