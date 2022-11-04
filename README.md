@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyps&show_icons=true&locale=en" alt="geekyps" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyps&" alt="geekyps" /></p>
+
+
+[![@geekyps's Holopin board](https://holopin.me/geekyps)](https://holopin.io/@geekyps)
