@@ -1,3 +1,6 @@
+
+
+<div class="div1">
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
 <h3 align="center">Freelance Full Stack App Developer</h3>
 
@@ -39,3 +42,4 @@
 
 
 [![@geekyps's Holopin board](https://holopin.me/geekyps)](https://holopin.io/@geekyps)
+</div>
