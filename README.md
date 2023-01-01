@@ -2,7 +2,7 @@
 
 <div class="div1">
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
-<h3 align="center">Freelance Full Stack App Developer</h3>
+<h3 align="center">Passionate Developer</h3>
   
  <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
@@ -10,11 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyps&label=Profile%20views&color=0e75b6&style=flat" alt="geekyps" /> </p>
   
 
-  
-  
-
-
-<p align="left"> <a href="https://twitter.com/Priyans58944648" target="blank"><img src="https://img.shields.io/twitter/follow/priyans68345217?logo=twitter&style=for-the-badge" alt="priyans68345217" /></a> </p>
 - 🔭 I’m currently working on Competitive Programming
 
 - 🌱 I’m currently learning **NodeJS/ExpressJS** and ReactJS**
