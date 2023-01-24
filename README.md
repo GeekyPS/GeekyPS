@@ -1,4 +1,3 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekyPS)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="div1">
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
@@ -41,13 +40,15 @@
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electronJS" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></p>
 
+<div flex-direction="column"></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyPS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekyPS)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyps&" alt="geekyps" /></p>
+<p></p>
 
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
