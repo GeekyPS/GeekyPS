@@ -51,5 +51,4 @@
 
 
 
-[![@geekyps's Holopin board](https://holopin.me/geekyps)](https://holopin.io/@geekyps)
 </div>
