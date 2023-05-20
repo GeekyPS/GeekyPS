@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Competitive Programming
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Cross Platform App Development**
 
