@@ -49,7 +49,7 @@
 
 <div flex-direction="column"></div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekyPS)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekyPS)](https://wakatime.com/@GeekyPS)
 
 <p></p>
 
