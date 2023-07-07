@@ -9,9 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyps&label=Profile%20views&color=0e75b6&style=flat" alt="geekyps" /> </p>
   
 
-- 🔭 I’m currently working on Competitive Programming
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working as Development Head at Coding Club , IITG
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Cross Platform App Development**
 
