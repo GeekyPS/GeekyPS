@@ -7,7 +7,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyps&label=Profile%20views&color=0e75b6&style=flat" alt="geekyps" /> </p>
-  
+
+![Wakatime Badge](https://wakatime.com/badge/user/37416121-7a9a-41ea-985d-995a6dcee8d3.svg)
+
 
 - 🔭 I’m currently working as Development Head at Coding Club , IITG
 - 🌱 I’m currently learning **Deep Learning**
