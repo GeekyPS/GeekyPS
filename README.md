@@ -77,4 +77,6 @@ Sunday                   106 commits         ███░░░░░░░░�
  Last Updated on 12/07/2023 21:07:59 UTC
 <!--END_SECTION:waka-->
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekyps)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
