@@ -42,18 +42,8 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></p>
 
-
-
-
-
-
-
-<div flex-direction="column"></div>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekyPS)](https://wakatime.com/@GeekyPS)
-
-<p></p>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 </div>
