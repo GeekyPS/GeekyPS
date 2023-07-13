@@ -36,45 +36,43 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2043%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 156.6 kB Used in GitHub's Storage 
+> 📦 155.8 kB Used in GitHub's Storage 
  > 
-> 🏆 364 Contributions in the Year 2023
+> 🏆 365 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                201 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-🌃 Evening                265 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
-🌙 Night                  232 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌞 Morning                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+🌆 Daytime                205 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌃 Evening                274 commits         █████████░░░░░░░░░░░░░░░░   34.25 % 
+🌙 Night                  232 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Thursday                 150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Sunday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Monday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Thursday                 158 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Saturday                 150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Sunday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 
 
 
- Last Updated on 13/07/2023 01:25:49 UTC
+ Last Updated on 13/07/2023 13:05:51 UTC
 <!--END_SECTION:waka-->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekyps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
