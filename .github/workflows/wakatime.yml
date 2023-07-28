@@ -15,10 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: False
-          COMMIT_BY_ME: True
           COMMIT_MESSAGE: "Updated Dev metrics"
-          COMMIT_USERNAME: "GeekyPS"
-          COMMIT_EMAIL: "priyanshusrivastava42@gmail.com"
           SHOW_UPDATED_DATE: True
           SHOW_PROFILE_VIEWS: False
           SHOW_LANGUAGE: False
