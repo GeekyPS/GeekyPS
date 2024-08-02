@@ -36,13 +36,11 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 168.8 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +70,7 @@ Sunday                   156 commits         ████░░░░░░░�
 
 
 
- Last Updated on 01/08/2024 01:13:36 UTC
+ Last Updated on 02/08/2024 01:07:47 UTC
 <!--END_SECTION:waka-->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekyps&layout=compact)](https://wakatime.com/@GeekyPS)
