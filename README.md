@@ -36,6 +36,8 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C608%20hrs%2025%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 212.1 kB Used in GitHub's Storage 
@@ -48,8 +50,29 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 18/05/2026 03:39:32 UTC
+```text
+🌞 Morning                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌆 Daytime                115 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌃 Evening                172 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌙 Night                  146 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Thursday                 126 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Friday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
+
+
+
+ Last Updated on 19/05/2026 03:32:50 UTC
 <!--END_SECTION:waka-->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekyps&layout=compact)](https://wakatime.com/@GeekyPS)
